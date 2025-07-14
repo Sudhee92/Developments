@@ -16,5 +16,6 @@ CLASS zsg_cl_poc_01 IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.
+"Test pull to eclipse
   ENDMETHOD.
 ENDCLASS.
